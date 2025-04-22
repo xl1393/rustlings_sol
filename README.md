@@ -25,3 +25,5 @@
 | macros                 | §19.5               |
 | clippy                 | §21.4               |
 | conversions            | n/a                 |
+
+# From repo: https://github.com/rust-lang/rustlings
